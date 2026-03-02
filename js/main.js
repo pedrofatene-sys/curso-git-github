@@ -2,6 +2,7 @@
 const channels = [
     { id: 'xEKo29OWILE', name: 'O que é Git e versionamento?' },
     { id: 'hcZ0qtwvN1w', name: 'O que é GitHub? Para que serve?' },
+    { id: 'CJtrNuTTs4Q', name: 'A Evolução do Git e GitHub' },
     { id: 'gMh6lrXibWY', name: 'Instalações e Configurações Importantes' },
     { id: '5BYm7UdCrX0', name: 'Criando o Primeiro Repositório GitHub' },
     { id: 'CSyEYiG8sFI', name: 'Instalando GitHub Desktop no Linux' },
