@@ -370,6 +370,7 @@ body {
 .button2 {
     display: flex;
     padding: 21px 3px;
+    margin:20px;
     background: transparent;
     border: 1px transparent;
     color: #fff;
